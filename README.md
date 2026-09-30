@@ -24,6 +24,16 @@ route apps, system audio and inputs into them, and monitor them on your speakers
 - Installer is signed and notarized (Apple Developer ID)
 - Downloads: releases tagged `patchcable-v<version>`
 
+## MidSide
+
+A Mid/Side encoder/decoder plug-in: VST3 and AAX for Windows and macOS. Shape a stereo mix
+in the Mid/Side domain, or decode a raw M/S microphone pair to stereo.
+
+- Public beta
+- macOS 12 or later, Apple Silicon only · Windows 10 or later, 64-bit
+- Installers are signed (Apple Developer ID and notarized on macOS; Sounds Like Joe LLC on Windows)
+- Downloads: releases tagged `midside-v<version>`
+
 ## Support
 
 info@thewavlab.com
