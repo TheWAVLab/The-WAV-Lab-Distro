@@ -8,11 +8,16 @@ release tagged `<product>-v<version>`; see **[Releases](../../releases)**.
 ## Fractus Granular Processor
 
 A granular processor plug-in: VST3 and AAX for Windows and macOS, plus Audio Unit on macOS.
-The same installer is used for the 14-day trial and the full version.
 
-- Product page, trial and purchase: https://thewavlab.com/product/fractus/
+**Public beta.** Install it and try Fractus free for 14 days: click **DEMO** in the
+plug-in's top-right corner, then **Start 14-Day Trial**. Feedback: info@thewavlab.com
+
+Fractus is not on general sale yet. Unlock codes are currently issued by invitation, to
+private beta testers, reviewers and preset designers.
+
 - macOS 12 or later, Apple Silicon only · Windows 10 or later, 64-bit
 - Installers are signed (Apple Developer ID and notarized on macOS; Sounds Like Joe LLC on Windows)
+- Downloads: releases tagged `fractus-v<version>`
 
 ## Patch Cable
 
